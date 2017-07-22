@@ -17,7 +17,6 @@ the following devices:
 * GPIO
 * FLASH
 * RADIO (Bluetooth Low Energy)
-* Segger RTT (RTT Console)
 
 .. figure:: img/nrf52_vbluno52_pinout.png
      :align: center
@@ -53,8 +52,6 @@ hardware features:
 | FLASH     | on-chip    | flash                |
 +-----------+------------+----------------------+
 | RADIO     | on-chip    | Bluetooth            |
-+-----------+------------+----------------------+
-| RTT       | on-chip    | console              |
 +-----------+------------+----------------------+
 | I2C       | on-chip    | i2c                  |
 +-----------+------------+----------------------+
